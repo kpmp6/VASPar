@@ -5,19 +5,23 @@
 ## Installation
 VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages. On Linux, it can be installed by specifying the binary path.
 * Download the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file or
-  > git clone https://github.com/kpmp6/VASPar.git
+  ```
+  git clone https://github.com/kpmp6/VASPar.git
+  ```
   > 
   Unzip the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file
   >
-  > unzip VASPar-1.0.zip
-  
+  ```
+   unzip VASPar-1.0.zip
+  ```  
   Enter password > **vaspar**
 
-  > cd VASPar-1.0
-  >
-  >  chmod +x install
-  >
-  > ./install
-  >
-  > source ~/.bashrc
-
+  ``` 
+  cd VASPar-1.0
+  chmod +x install
+  ./install
+  source ~/.bashrc
+  ```
+## Documentation
+  Run **vaspar** in the terminal from the working directory to use the tool.
+  > INCAR, KPOINTS, POSCAR and POTCAR files must present in the working directory
