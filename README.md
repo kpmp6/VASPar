@@ -23,5 +23,20 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   source ~/.bashrc
   ```
 ## Documentation
-  Run **vaspar** in the terminal from the working directory to use the tool.
+* Run **vaspar** in the terminal from the working directory to use the tool.
   > INCAR, KPOINTS, POSCAR and POTCAR files must present in the working directory
+  ```
+  vaspar
+  ```
+  Enter the maximum number of cores per node available on the HPC system.
+  It will display a list of core and node configurations. Select an option by entering the corresponding list number, then choose the specific configuration for the calculation.
+  > The first list and the first Cores/Nodes configuration are optimal for most cases.
+  
+  It will automatically update the Slurm JOB script and INCAR.
+
+* To set the KPAR and NCORE parallelization tags,
+  ```
+  vaspar --par
+  ```
+  It will show the recommended KPAR and NCORE values, and entering these values will automatically update the INCAR file.
+  
