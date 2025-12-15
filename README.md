@@ -7,11 +7,18 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
 * Installation steps
   Download the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file or
   > git clone https://github.com/kpmp6/VASPar.git
+  > 
   Unzip the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file
+  >
   > unzip VASPar-1.0.zip
+  
   Enter password > **vaspar**
+
   > cd VASPar-1.0
-  > chmod +x install
+  >
+  >  chmod +x install
+  >
   > ./install
+  >
   > source ~/.bashrc
 
