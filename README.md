@@ -1,1 +1,1 @@
-# VAS<i>P<u>ar</u></i>
+# VAS*P<u>ar</u>*
