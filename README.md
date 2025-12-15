@@ -4,8 +4,7 @@
 
 ## Installation
 VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages. On Linux, it can be installed by specifying the binary path.
-* Installation steps
-  Download the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file or
+* Download the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file or
   > git clone https://github.com/kpmp6/VASPar.git
   > 
   Unzip the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file
