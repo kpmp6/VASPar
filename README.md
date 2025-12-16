@@ -69,4 +69,5 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
 Please report bugs and other issues through the issue tracker at:
 (https://github.com/kpmp6/VASPar/issues)
 
-
+## License
+VAS*P<ins>ar</ins>* is licensed under the [MIT License](LICENSE).
