@@ -39,4 +39,23 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   vaspar --par
   ```
   It will show the recommended KPAR and NCORE values, and entering these values will automatically update the INCAR file.
+* To assign *N* number of bands per core,
+  > By default, it assigns 2 bands per core
+  ```
+  vaspar --bpc <N>
+  ```
+  > and proceed as usual
+* To add extra unoccupied bands per ion,
+  > By default, it sets 1 empty band per ion
+  ```
+  vaspar --n <n>
+  ```
+  > and proceed as usual
   
+* Help
+  ```
+  vaspar -h
+  ```
+> [!NOTE]
+> This tool is not compatible with OPENMP configurations
+
