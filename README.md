@@ -32,7 +32,7 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   ```
   Enter the maximum number of cores per node available on the HPC system.
   It will display a list of core and node configurations. Select an option by entering the corresponding list number, then choose the specific configuration for the calculation.
-  > The first list and the first Cores/Nodes configuration are optimal for most cases.
+  > [!TIP] The first list and the first Cores/Nodes configuration are optimal for most cases.
   
   It will automatically update the Slurm JOB script and INCAR.
 
