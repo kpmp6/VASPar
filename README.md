@@ -1,4 +1,4 @@
-# VAS*P<ins>ar</ins>*
+# VAS*P<ins>ar</ins>* (v1.0)
 ![Project Logo](vaspar_logo.png)
 
 * [**VASP**](https://www.vasp.at/) *Parallelization* tool - This tool determines the number of occupied electronic states and, using the default settings for the [NBANDS](https://www.vasp.at/wiki/index.php/NBANDS) parameter, estimates the required number of unoccupied (empty) bands based on information extracted from the [POSCAR](https://www.vasp.at/wiki/index.php/POSCAR) and [POTCAR](https://vasp.at/wiki/POTCAR) files. It then proposes optimal processor core (two bands per core) and node configurations, and correspondingly updates the [JOB submission script](https://slurm.schedmd.com/sbatch.html) as well as the [INCAR](https://www.vasp.at/wiki/INCAR).
