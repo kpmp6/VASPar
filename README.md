@@ -62,3 +62,8 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
 ## Author
  * [**KPM**](https://github.com/kpmp6)
 
+##Issues
+
+Please report bugs and other issues through the issue tracker at:
+
+
