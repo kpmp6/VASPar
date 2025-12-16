@@ -60,5 +60,5 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
 > This tool is not compatible with OPENMP configurations
 
 ## Author
-  [**KPM**](https://github.com/kpmp6)
+ * [**KPM**](https://github.com/kpmp6)
 
