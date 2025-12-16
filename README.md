@@ -16,7 +16,7 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   ```
    unzip VASPar-1.0.zip
   ```  
-  Enter password > **vaspar**
+  Enter password > **𝚟𝚊𝚜𝚙𝚊𝚛**
 
   ``` 
   cd VASPar-1.0
