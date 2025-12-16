@@ -65,5 +65,6 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
 ##Issues
 
 Please report bugs and other issues through the issue tracker at:
+(https://github.com/kpmp6/VASPar/issues)
 
 
