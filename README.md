@@ -49,7 +49,7 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   ```
   > and proceed as usual
 * To add extra unoccupied bands per ion,
-  > By default, it sets 1 empty band per ion
+  > By default, it assigns a half-empty band to each ion.
   ```
   vaspar --n <n>
   ```
