@@ -20,7 +20,7 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   Enter password > **𝚟𝚊𝚜𝚙𝚊𝚛**
 
   ``` 
-  cd VASPar-1.0
+  cd VASPar-v1.1
   chmod +x install
   ./install
   source ~/.bashrc
