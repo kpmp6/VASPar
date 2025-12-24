@@ -55,6 +55,7 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   ```
   > and proceed asusual
 * To set the NBANDS explicitly (for eg. GW/SOC/etc.)
+  > Available as of VAS*P<ins>ar</ins>*-v1.1
   ```
   vaspar --nbands <n>
   ```
