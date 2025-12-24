@@ -6,16 +6,16 @@
 
 ## Installation
 VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages. On Linux, it can be installed by specifying the binary path.
-* Download the [VAS*P<ins>ar</ins>*-1.1.zip](VASPar-v1.1.zip) file or
+* Download the [VAS*P<ins>ar</ins>*-v1.1.zip](VASPar-v1.1.zip) file or
   ```
   git clone https://github.com/kpmp6/VASPar.git
   cd VASPar
   ```
   > 
-  Unzip the [VAS*P<ins>ar</ins>*-1.0.zip](VASPar-1.0.zip) file
+  Unzip the [VAS*P<ins>ar</ins>*-v1.1.zip](VASPar-v1.1.zip) file
   >
   ```
-   unzip VASPar-1.0.zip
+   unzip VASPar-v1.1.zip
   ```  
   Enter password > **𝚟𝚊𝚜𝚙𝚊𝚛**
 
@@ -53,7 +53,11 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   ```
   vaspar --n <n>
   ```
-  > and proceed as usual
+  > and proceed asusual
+
+  vaspar --nbands <n>
+  ```
+  > and proceed asusual
   
 * Help
   ```
