@@ -47,19 +47,19 @@ VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages.
   ```
   vaspar --bpc <N>
   ```
-  > and proceed asusual
+  > and proceed as usual
 * To add extra unoccupied bands per ion,
   > By default, it assigns a half-empty band to each ion.
   ```
   vaspar --n <n>
   ```
-  > and proceed asusual
+  > and proceed as usual
 * To set the NBANDS explicitly (for eg. GW/SOC/etc.)
   > Available as of VAS*P<ins>ar</ins>*-v1.1
   ```
   vaspar --nbands <n>
   ```
-  > and proceed asusual
+  > and proceed as usual
   
 * Help
   ```
