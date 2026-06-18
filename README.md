@@ -1,4 +1,4 @@
-# VAS*P<ins>ar</ins>* (v1.1)
+# VAS*P<ins>ar</ins>* (v1.2)
 ![Logo](vaspar_logo.png)
 
 * [**VASP**](https://www.vasp.at/) *Parallelization* tool - This tool determines the number of occupied electronic states and, using the default settings for the [NBANDS](https://www.vasp.at/wiki/index.php/NBANDS) parameter, estimates the required number of unoccupied (empty) bands based on information extracted from the [POSCAR](https://www.vasp.at/wiki/index.php/POSCAR) and [POTCAR](https://vasp.at/wiki/POTCAR) files. It then proposes optimal processor core (two bands per core) and node configurations, and correspondingly updates the [JOB submission script](https://slurm.schedmd.com/sbatch.html) as well as the [INCAR](https://www.vasp.at/wiki/INCAR).
@@ -6,21 +6,21 @@
 
 ## Installation
 VAS*P<ins>ar</ins>* is a standalone binary that requires no additional packages. On Linux, it can be installed by specifying the binary path.
-* Download the [VAS*P<ins>ar</ins>*-v1.1.zip](VASPar-v1.1.zip) file or
+* Download the [VAS*P<ins>ar</ins>*-v1.2.zip](VASPar-v1.2.zip) file or
   ```
   git clone https://github.com/kpmp6/VASPar.git
   cd VASPar
   ```
   > 
-  Unzip the [VAS*P<ins>ar</ins>*-v1.1.zip](VASPar-v1.1.zip) file
+  Unzip the [VAS*P<ins>ar</ins>*-v1.2.zip](VASPar-v1.2.zip) file
   >
   ```
-   unzip VASPar-v1.1.zip
+   unzip VASPar-v1.2.zip
   ```  
   Enter password > **𝚟𝚊𝚜𝚙𝚊𝚛**
 
   ``` 
-  cd VASPar-v1.1
+  cd VASPar-v1.2
   chmod +x install
   ./install
   source ~/.bashrc
